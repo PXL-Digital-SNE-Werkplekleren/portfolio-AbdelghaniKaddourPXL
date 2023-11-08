@@ -1,7 +1,7 @@
 # Logboek werkplekleren
 
 ## Logboek WPL 1
-#Titel
+# Titel
 
 ![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AbdelghaniKaddourPXL/assets/32476934/27e51e76-9566-4225-bee8-c9703cca4627)
 
