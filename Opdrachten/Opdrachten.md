@@ -5,18 +5,22 @@
 Voor twee recente schoolervaringen moesten we een reflectie schrijven op twee verschillende manieren. Één met de reflectiemodel van Kolb en één volgens de Starr methode. Ook moesten we onze kernwaarden en/of kernkwaliteiten linken aan deze ervaringen. 
 
 ### POP opdracht planning en zelfsturing
-Voor deze opdracht moesten we een planning maken van de twee opkomende weken. Deze planning bestond uit een takenlijst en een tabel met een kleurencode. Een planning is een handige hulpmiddel om uitstelgedrag te vermijden en duidelijker doelen af te bakenen. Voor mij was deze opdracht behulpzaam omdat ikzelf moeite heb met uitstellen en op tijd te werken aan opdrachten. [Takenlijst]( https://drive.google.com/file/d/1QoK2k27WoZH38hlUEwCQntn8xFPqrr1s/view?usp=sharing) [Planning]( https://drive.google.com/file/d/1YYzGKFcu7v6dER0N9WCIoZq47QYa6mJG/view?usp=sharing)
+Voor deze opdracht moesten we een planning maken van de twee opkomende weken. Deze planning bestond uit een takenlijst en een tabel met een kleurencode. Een planning is een handige hulpmiddel om uitstelgedrag te vermijden en duidelijker doelen af te bakenen. Voor mij was deze opdracht behulpzaam omdat ikzelf moeite heb met uitstellen en op tijd te werken aan opdrachten. [Opdracht Takenlijst]( https://drive.google.com/file/d/1QoK2k27WoZH38hlUEwCQntn8xFPqrr1s/view?usp=sharing) [Opdracht Planning]( https://drive.google.com/file/d/1YYzGKFcu7v6dER0N9WCIoZq47QYa6mJG/view?usp=sharing)
 
 ### Carrièrekompas
+Voor deze opdracht moesten we onze talenten beschrijven, een vacature zoeken voor nadat we zijn afgestudeerd en een vacature van wat we in tien jaar zouden willen doen. Welke soft skills we nodig zouden hebben voor deze jobs en welke vaardigheden we verder wouden ontwkkelen.
 
 ### X-factor leerpad
+Binnen de PXL wordt er gebruikgemaakt van de X-factor. Dit werd ons verder toegelicht via een online leerpad met teksten en video’s. In dit leerpad gingen we over elk individueel punt van de x-factor en werden er ook vragen gesteld. 
 
 ### Opdracht actualiteit
+De actualiteit opdracht was opgesplitst in twee delen: een individuele opdracht en een groepsopdracht. In de actualiteit opdracht kregen we een stelling die we moesten verklaren en onze mening over geven. Hiervoor moesten we online bronnen gebruiken. Nadat we dat individueel deden kwamen we samen in groep deelden we onze mening en verdedigde we die. Daarna gaven we een eindconclusie van de groep. Tenslotte moesten we in groep De SDG’s linken aan de stelling en verklaren waarom we die SDG’s gekozen hadden. Ik vond deze opdracht leuk omdat we een deel in groep konden doen en het ons ook leerde om betrouwbare bronnen te gebruiken. [Opdracht Actualiteit]( https://drive.google.com/file/d/13qKpL5qzC7bMkPzSB13Ujl62o4dQMckv/view?usp=sharing)
 
 ### Opdracht netwerken
+In deze opdracht moesten we een configuratie file maken voor het opzetten van een switch en router. 
 
 ### Opdracht Power App OLR
-
+Voor deze opdracht moesten we aan de hand van zelfstudie een smartphone app maken via Power App om de OLR rollen van de opleiding toe te passen tijdens de stage.
 
 ## Opdrachten WPL 2
 
