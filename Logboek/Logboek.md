@@ -3,7 +3,7 @@
 ## Logboek WPL 1
 **Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en Netwerken.**
 
-[](https://github.com/guidofris/Portfolio/blob/main/images/Planning_WPL1.png)
+![](https://github.com/guidofris/Portfolio/blob/main/images/Planning_WPL1.png)
 
 **Het doel van WPL1 was oriëntering en kennismaken met het werkveld.**
 
