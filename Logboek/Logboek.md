@@ -12,6 +12,7 @@ kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachte
 
 
 ### **Planning WPL1:**
+[](./PlanningWPL1.png)
 ## Logboek WPL 2
 
 ## Logboek WPL 3
