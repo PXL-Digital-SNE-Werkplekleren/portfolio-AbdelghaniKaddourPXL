@@ -11,6 +11,9 @@ De vibe group is een internationaal bedrijf dat IT-personeel- connecteert met or
 ### Servicedesk Nathan Reviers Carglass
 Meneer Nathan Reviers vertelde ons eerst wat er van een servicedesk wordt verwacht. Hierna zei hij hoe het daar te werk ging toen hij het in 2020 overnam en welke stappen hij genomen had om het te verbeteren. In 2020 nam hij eerst een bevraging van wat de klanten vonden van de servicedesk en hoeveel work in progress (wip) er per dag openstonden. Hierdoor zag hij dat er teveel wip waren en dat de klanten tevredenheid veel beter kon. Hij besloot om leanthinking toe te passen. Een manier van ITIL wat we in de lessen IT Organisation gezien hebben. Zoals we in die lessen hadden gezien hielp dit enorm en daalden de wip die per dag waren. Het was leuk om een spreker te hebben die sprak over iets wat we toen pas in een andere vak zagen. 
 
+### X-factor
+Het leerpad was heel handig om te leren over de X-factor. De afwisseling tussen tekst en video's hielden het interresant. De vragen aan het einde van elk stuk zorgden ervoor dat wat je net las en gekeken had kon inoefenen en toepassen. 
+
 ### Slotevaluatie
 Door de carrièrekompas opdracht hebben we al kunnen zoeken naar toekomstige jobs en zelf weet ik nog niet wat ik precies wil doen. Met de volgende lessen en wat meer ervaring zal ik waarschijnlijk een betere beslissing kunnen maken. Een seminarie van iemand die met systemen en/of netwerken werkt lijkt mij wel interessant voor WPL2. Ik hoop dat we in WPL2 Meer praktische opdrachten krijgen die te maken hebben met hard skills. Een koppeling tussen de andere vakken. Mijn voornemens zijn goed samenwerken en mij aan mijn planning houden.
 
