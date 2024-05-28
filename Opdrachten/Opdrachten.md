@@ -23,7 +23,7 @@ In deze opdracht moesten we een configuratie file maken voor het opzetten van ee
 Voor deze opdracht moesten we aan de hand van zelfstudie een smartphone app maken via Power App om de OLR rollen van de opleiding toe te passen tijdens de stage.
 
 ## Opdrachten WPL 2
-
+Voor het project van WPL2 heb ik in een virtuele omgeving gewerkt aan een project voor een fictieve school. Hiervoor heb ik een aantal virtuele machines van zowel Windows als Linux aangemaakt. Deze heb ik dan toegevoegd aan een domein die ik gemaakt hebt. Hierdoor kan je de pc’s vanop beheren.  Ik heb een script geschreven die een CSV bestand inleest met leerlingen en daarvan automatisch gebruikers aanmaakt. In groep hebben we dan een grondplan en in packettracer een Cisco opdracht gemaakt om het schoolnetwerk na te bootsen. Vervolgens heb ik dan een monitoring tool geïnstalleerd die een makkelijkere overzicht geeft voor problemen. Ten slotte heb ik een paar group policies aangemaakt zoals: een group policy die studenten  blokkeert om met de computer eigenschappen te knoeien, een vaste achtergrond voor alle pc’s en een group policy die ervoor zorgt als je op het internet gaat je eerst op de school zijn webpagina belandt. Na deze opdrachten ben ik het meeste trots op mijn script die ik gemaakt heb. Ik heb deze stap per stap uitgewerkt met meerdere versies en vond het een hele leuke opdracht. 
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
