@@ -30,7 +30,7 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
-
+Tijdens de voorbije periode ben ik zowel technisch als op het vlak van soft skills sterk gegroeid. Mijn technische kennis is verdiept doordat ik actief meewerkte in het problem solving team. Hiervoor moest ik regelmatig opzoekwerk doen om problemen te analyseren en op te lossen, wat mijn leerproces sterk bevorderde. Wanneer ik de oplossing niet meteen zelf vond, kon ik steeds rekenen op de ondersteuning van mijn teamgenoten. In het begin vond ik het moeilijk om hulp te vragen, maar tijdens WPL3 leerde ik dat open communicatie leidt tot efficiënter werken en betere resultaten voor het hele team. De feedback dat ik kreeg van mijn werkplekcoach was zeer positief. Ze was tevreden over wat ik presteerde en moedigde mij ook aan om meet te werken bij andere hun opdrachten. 
 [WPL3-FG_KaddourAbdelghani](https://drive.google.com/file/d/1rJLXFz7cHHVULGivEytFUiXKtyC3Ltyw/view?usp=sharing), 
 [WPL3-EG_KaddourAbdelghani](https://drive.google.com/file/d/1irIqEijheUuXMzM1tX8wayDCCM6nt9Gw/view?usp=sharing)
 
