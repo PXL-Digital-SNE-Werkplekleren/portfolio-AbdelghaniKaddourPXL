@@ -29,5 +29,17 @@ Voor het project van WPL2 heb ik in een virtuele omgeving gewerkt aan een projec
 [Presentatie](https://drive.google.com/file/d/1vpcaKJQ1FSLntCcePF4dpIcOwRrqfSoU/view?usp=sharing), 
 [Volledige opleverdocument](https://drive.google.com/file/d/1WyXlYH-5F4uKhwkK2IJg03LpnuAFm4Yk/view?usp=sharing)
 ## Opdrachten WPL 3
+### Voorbereiding planningsgesprek
+[WPL3-Voorbereiding_planningsgesprek_KaddourAbdelghani](https://drive.google.com/file/d/13ZkgyktlmQ5mlLNtvDZTrz6eFwOZMTPL/view?usp=sharing)
 
+### Pitch
+[WPL3_Intervisie_Pitch_Kaddour_Abdelghani](https://drive.google.com/file/d/1djlH7QiwuYlMvXcM18jhfIm8TFET3rzS/view?usp=sharing)
+
+### Probleemsituatie en advies
+
+[ProbleemsituatieWPL32SNEAKaddourAbdelghani_Naverwerking](https://drive.google.com/file/d/10IATqBocZBCKEJ9sy83b0VCaqSjOY1BS/view?usp=sharing)
+
+### Werkkwaliteiten
+
+[WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_KaddourAbdelghani](https://drive.google.com/file/d/1uGKi7J6oWrLOvvnJWg-M5JEhgqdIuBye/view?usp=sharing)
 ## Opdrachten WPL 4
