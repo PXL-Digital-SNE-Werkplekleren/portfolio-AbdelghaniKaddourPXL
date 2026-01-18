@@ -31,4 +31,7 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+[WPL3-FG_KaddourAbdelghani](https://drive.google.com/file/d/1rJLXFz7cHHVULGivEytFUiXKtyC3Ltyw/view?usp=sharing), 
+[WPL3-EG_KaddourAbdelghani](https://drive.google.com/file/d/1irIqEijheUuXMzM1tX8wayDCCM6nt9Gw/view?usp=sharing)
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
