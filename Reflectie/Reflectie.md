@@ -26,9 +26,13 @@ WPL2 was een positieve manier om praktisch te oefenen met de theoretische leerst
 
 ## Reflectie WPL 3
 In het algemeen kijk ik heel positief terug op mijn ervaring tijdens WPL3. Ik ben gegroeid in zowel mijn technische kennis als soft skills zoals communicatie en zelfvertrouwen. Ik heb verschillende taken zelfstandig leren uitvoeren en ben tevreden dat ik mijn theoretische kennis steeds beter kon toepassen in de praktijk. Daarnaast heb ik geleerd om meer gestructureerd te werken en verantwoordelijkheid op te nemen voor mijn taken.
+
 De werkplek zelf vond ik heel fijn. De werksfeer was aangenaam waardoor ik mij snel op mijn gemak voelde. De bedrijfscultuur was open en ondersteunend, wat het makkelijk maakte om vragen te stellen en bij te leren. Ook de samenwerking binnen het team verliep vlot. 
+
 De samenwerking met mijn werkplekcoach en collega’s verliep goed. Ik kreeg duidelijke uitleg en constructieve feedback, wat mij hielp om te groeien. Een werkpunt voor mezelf is dat ik soms te lang zelf blijf zoeken als ik vast zit. Dit wil ik aanpakken door sneller hulp te vragen aan collega’s wanneer ik merk dat ik niet verder geraak, gerichter vragen te stellen en mijn denkproces duidelijk toe te lichten. Zo kan ik efficiënter werken, tijd besparen en tegelijk blijven bijleren.
+
 Tijdens WPL3 waren er ook uitdagingen. Sommige taken waren moeilijk omdat er gewerkt werd met voor mij nieuwe programma’s. Vooral tijdsdruk en veel nieuwe dingen leren zorgde soms voor wat stress. Ook wetende dat we werkte met echte omgevingen met reële gevolgen zorgde dat ik soms te voorzichtig en traag te werk ging. Voor WPL4 wil ik werken aan mijn zelfstandigheid en planning. Dit kan ik verbeteren door taken beter voor te bereiden, prioriteiten te stellen en hulp te vragen wanneer nodig. 
+
 Met het oog op de toekomst zie ik nog veel leerkansen. Ik kan mij verder ontwikkelen in technische vaardigheden en efficiënter leren werken. Mijn huidige talenten, zoals leergierigheid, doorzettingsvermogen en samenwerking, zet ik al in op de werkplek. Tijdens WPL4 wil ik deze talenten nog sterker benutten en ook mijn initiatief en zelfstandigheid verder ontwikkelen. Graag zou ik in WPL4 meer verantwoordelijkheid krijgen en complexere taken uitvoeren, omdat dit mij helpt om verder te groeien en me beter voor te bereiden voor de werkwereld. 
 
 ## Reflectie WPL 4
