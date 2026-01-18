@@ -32,6 +32,7 @@ Voor het project van WPL2 heb ik in een virtuele omgeving gewerkt aan een projec
 ### Voorbereiding planningsgesprek
 Tijdens de eerste intervisie kregen we een opdracht om ons voor te bereiden voor het planningsgesprek. 
 Hierin stonden de OLR's en moesten we beschrijven wat we verwachten van deze OLR's en hoe we deze op onze werkplek zouden kunnen toepassen. 
+
 [WPL3-Voorbereiding_planningsgesprek_KaddourAbdelghani](https://drive.google.com/file/d/13ZkgyktlmQ5mlLNtvDZTrz6eFwOZMTPL/view?usp=sharing)
 
 ### Pitch
