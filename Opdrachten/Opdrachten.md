@@ -30,16 +30,22 @@ Voor het project van WPL2 heb ik in een virtuele omgeving gewerkt aan een projec
 [Volledige opleverdocument](https://drive.google.com/file/d/1WyXlYH-5F4uKhwkK2IJg03LpnuAFm4Yk/view?usp=sharing)
 ## Opdrachten WPL 3
 ### Voorbereiding planningsgesprek
+Tijdens de eerste intervisie kregen we een opdracht om ons voor te bereiden voor het planningsgesprek. 
+Hierin stonden de OLR's en moesten we beschrijven wat we verwachten van deze OLR's en hoe we deze op onze werkplek zouden kunnen toepassen. 
 [WPL3-Voorbereiding_planningsgesprek_KaddourAbdelghani](https://drive.google.com/file/d/13ZkgyktlmQ5mlLNtvDZTrz6eFwOZMTPL/view?usp=sharing)
 
 ### Pitch
+Voor de tweede intervisie moesten we een kleine pitch voorbereiden. Hier moesten we onze werkplek voorstellen. 
+Een taakomschrijving en uitdagingen voor ons voorstellen. 
 [WPL3_Intervisie_Pitch_Kaddour_Abdelghani](https://drive.google.com/file/d/1djlH7QiwuYlMvXcM18jhfIm8TFET3rzS/view?usp=sharing)
 
 ### Probleemsituatie en advies
-
+Eerst moesten we een probleemsituatie die we hebben meegemaakt op onze werkplek beschrijven. Ook eventuele oplossingen die we al geprobeerd hebben. 
+tijdens de intervisie bespreektte we dan in groep onze situaties en leerdde we van elkaar. 
+Daarna gebruikte we de adviezen en situaties van elkaar om een stappenplan te schrijven.
 [ProbleemsituatieWPL32SNEAKaddourAbdelghani_Naverwerking](https://drive.google.com/file/d/10IATqBocZBCKEJ9sy83b0VCaqSjOY1BS/view?usp=sharing)
 
 ### Werkkwaliteiten
-
+Voor deze opdracht moesten we vier kernkwaliteiten met valkuilen, uitdagingen en allergieen op schrijven. Ik heb hiervoor mijn Kyss en Lemo test van WPL1 gebruikt. 
 [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_KaddourAbdelghani](https://drive.google.com/file/d/1uGKi7J6oWrLOvvnJWg-M5JEhgqdIuBye/view?usp=sharing)
 ## Opdrachten WPL 4
