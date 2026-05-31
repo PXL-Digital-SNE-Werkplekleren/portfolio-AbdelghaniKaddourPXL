@@ -35,3 +35,10 @@ Tijdens de voorbije periode ben ik zowel technisch als op het vlak van soft skil
 [WPL3-EG_KaddourAbdelghani](https://drive.google.com/file/d/1irIqEijheUuXMzM1tX8wayDCCM6nt9Gw/view?usp=sharing)
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
+Tijdens de voorbije periode van werkplekleren ben ik zowel technisch als persoonlijk sterk gegroeid. Op technisch vlak heb ik mijn kennis van Windows-omgevingen, Active Directory en Microsoft 365 verder uitgebreid en heb ik geleerd om problemen zelfstandiger te analyseren en op te lossen. Ik ben ook kritischer leren nadenken bij troubleshooting en heb geleerd om verder te kijken dan de meest voor de hand liggende oorzaak van een probleem.
+
+Op het vlak van soft skills ben ik zelfstandiger geworden en voel ik mij zekerder binnen een professioneel team. Mijn samenwerking met collega's verliep steeds vlotter en ik werd vaker betrokken bij het meedenken over oplossingen. Daarnaast heb ik mijn communicatievaardigheden verder ontwikkeld, zowel in het contact met collega's als met klanten. Ik heb geleerd hoe belangrijk duidelijke communicatie, correcte documentatie en een goede opvolging van tickets zijn binnen een professionele IT-omgeving.
+
+De feedback die ik voornamelijk kreeg, was dat ik goed zelfstandig kan werken en problemen grondig probeer te analyseren. Tegelijk werd aangegeven dat ik soms sneller hulp mag vragen wanneer ik vastloop, zodat ik efficiënter kan werken en nog meer kan leren van de ervaring van collega's. Daarnaast kreeg ik de feedback dat ik sneller telefonisch contact mag opnemen met klanten wanneer extra informatie nodig is of wanneer een probleem verduidelijking vraagt. Ik koos namelijk vaak voor communicatie via e-mail, terwijl een telefoongesprek in veel situaties sneller tot de nodige informatie of een oplossing kan leiden. Deze feedback neem ik mee als belangrijk aandachtspunt voor mijn verdere professionele ontwikkeling.
+[WPL4-FG_KaddourAbdelghani](https://drive.google.com/file/d/15N23V3BmuPIOi_gbJBC0MyNXxPts0EBA/view?usp=sharing), 
+[WPL4-EG_KaddourAbdelghani](https://drive.google.com/file/d/1mrch6w2ZxuOfcGSOucQjx38ne_z_Q2L1/view?usp=sharing)
