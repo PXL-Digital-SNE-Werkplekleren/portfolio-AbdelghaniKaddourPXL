@@ -50,3 +50,10 @@ Daarna gebruikte we de adviezen en situaties van elkaar om een stappenplan te sc
 Voor deze opdracht moesten we vier kernkwaliteiten met valkuilen, uitdagingen en allergieen op schrijven. Ik heb hiervoor mijn Kyss en Lemo test van WPL1 gebruikt. 
 [WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_KaddourAbdelghani](https://drive.google.com/file/d/1uGKi7J6oWrLOvvnJWg-M5JEhgqdIuBye/view?usp=sharing)
 ## Opdrachten WPL 4
+### Feedback / Successen / Moeilijkheden of uitdagingen
+Voor deze opdracht moesten we terugkijken naar feedback die we hebben ontvangen op onze werkplek. Voor zowel negatieve als positieve feedback keken we terug hoe we er toen op reageerde en of we dat nu ook zouden doen.
+Daarna beschreven we successen op onze werkplek en een moeilijkheid waarvoor we feedback/tips over zouden kunnen gebruiken. Daarna bespraken we dat in groep. Ten slotte schreven we na de intervisie op wat we van elkaars situaties hebben kunnen leren.
+[WPL_Intervisie_opdracht_2025-03_KaddourAbdelghani](https://drive.google.com/file/d/1HzxAY3_rDl4KHFFwMSTVVEO6SRmNZ0hE/view?usp=sharing)
+### Eindreflectie
+Voor deze opdracht schreven we een eindreflectie voor heel WPL4. Hierin beschreven we hoe we gegroeid waren, wat we bijgeleerd hadden en wat we zien voor de toekomst.
+[WPL4_Eindreflectie](https://drive.google.com/file/d/1BsXMVC5M6K3upLa6m11bMomZ6C7cQ8RW/view?usp=sharing)
